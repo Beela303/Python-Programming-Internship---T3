@@ -1,0 +1,31 @@
+[
+  {
+    "record_id": "J-001",
+    "name": "  Amina   Yusuf ",
+    "email": "AMINA@example.com",
+    "age": "29",
+    "country": " nigeria "
+  },
+  {
+    "record_id": "J-002",
+    "name": "Chidi Okafor",
+    "email": "bad-email",
+    "age": "31",
+    "country": "Nigeria"
+  },
+  {
+    "record_id": "J-003",
+    "name": "Maya Chen",
+    "email": "maya@example.org",
+    "age": "150",
+    "country": "Canada"
+  },
+  "this item is not an object",
+  {
+    "record_id": "J-001",
+    "name": "Duplicate ID",
+    "email": "dupe@example.com",
+    "age": "22",
+    "country": "Ghana"
+  }
+]
