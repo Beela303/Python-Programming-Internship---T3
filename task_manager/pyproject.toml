@@ -1,0 +1,23 @@
+[project]
+name = "task-manager"
+version = "0.1.0"
+description = "Python project"
+requires-python = ">=3.11"
+dependencies = [
+    "pytest",
+]
+
+[tool.ruff]
+line-length = 88
+
+[tool.ruff.lint]
+select = [
+    "E",
+    "F",
+    "I",
+    "B",
+    "UP",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
