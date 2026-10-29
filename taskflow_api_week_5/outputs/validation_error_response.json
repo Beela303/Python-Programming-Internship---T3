@@ -1,0 +1,16 @@
+{
+  "error": {
+    "code": "VALIDATION_ERROR",
+    "message": "The request data is invalid.",
+    "details": [
+      {
+        "type": "string_too_short",
+        "loc": [
+          "body",
+          "title"
+        ],
+        "msg": "String should have at least 3 characters"
+      }
+    ]
+  }
+}

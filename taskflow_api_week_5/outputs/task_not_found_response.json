@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": "TASK_NOT_FOUND",
+    "message": "Task with ID 99 was not found.",
+    "details": null
+  }
+}
