@@ -1,0 +1,8 @@
+$ python -m scripts.demo
+1. Register: 201
+2. Login: access token issued
+3. Create book: 201 {'id': 1, 'title': 'Things Fall Apart', 'author': 'Chinua Achebe', 'genre': 'Fiction', 'status': 'reading', 'publication_year': 1958}
+4. List books: {'items': [{'id': 1, 'title': 'Things Fall Apart', 'author': 'Chinua Achebe', 'genre': 'Fiction', 'status': 'reading', 'publication_year': 1958}], 'total': 1, 'page': 1, 'page_size': 10, 'pages': 1}
+5. Health: {'status': 'ok', 'service': 'Reading Room API', 'version': '1.0.0'}
+
+Representative output; run the demo script locally for live output.

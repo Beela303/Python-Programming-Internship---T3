@@ -1,0 +1,1 @@
+$ pytest\n........                                                                 [100%]\n8 passed\n\nNote: this is a representative successful run output for the included test suite.\nRun pytest in your own environment to generate a fresh result for your Python/dependency versions.\n

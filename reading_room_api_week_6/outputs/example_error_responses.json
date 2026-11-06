@@ -1,0 +1,27 @@
+{
+  "unauthenticated": {
+    "detail": "Not authenticated"
+  },
+  "invalid_token": {
+    "detail": "Invalid or expired access token"
+  },
+  "duplicate_account": {
+    "detail": "An account with this email already exists"
+  },
+  "missing_book": {
+    "detail": "Book not found"
+  },
+  "validation_error": {
+    "detail": [
+      {
+        "type": "string_too_short",
+        "loc": [
+          "body",
+          "title"
+        ],
+        "msg": "String should have at least 1 character",
+        "input": ""
+      }
+    ]
+  }
+}
