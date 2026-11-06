@@ -208,16 +208,3 @@ Never commit `.env` or production secrets. The checked-in Compose credentials ar
 - `204`: successful delete with no response body.
 
 FastAPI's validation errors follow its standard structured `detail` response. Unexpected server errors should be logged and monitored in a deployed environment; do not expose stack traces to clients.
-
-## Production hardening checklist
-
-This is a production-style learning project, not a claim of production certification. Before public deployment:
-- Set a strong secret via a secrets manager and enforce HTTPS.
-- Add rate limiting and brute-force protection to authentication.
-- Add refresh-token rotation/revocation or integrate a mature identity provider.
-- Add structured logs, monitoring, tracing and database backups.
-- Configure trusted CORS origins, TLS termination and secure deployment secrets.
-- Add CI checks, dependency scanning, coverage thresholds and migration checks.
-- Review password policy, account lifecycle, privacy and threat model.
-
-See [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) for design rationale.
