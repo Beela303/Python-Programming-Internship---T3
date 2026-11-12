@@ -1,0 +1,12 @@
+order_id,customer_id,product_id,order_date,quantity,unit_price,discount_rate,customer_name,region,product_name,category,unit_cost,gross_sales,net_sales,total_cost,gross_profit,gross_margin_rate,order_month,revenue_band
+O1001,C001,P01,2026-01-04,2,120,0.05,Amina Yusuf,North,Wireless Keyboard,Accessories,55.0,240.0,228.0,110.0,118.0,0.5175438596491229,2026-01,100_to_499_99
+O1002,C002,P02,2026-01-08,1,80,0.0,Daniel Okafor,South,USB-C Hub,Accessories,32.0,80.0,80.0,32.0,48.0,0.6,2026-01,under_100
+O1003,C003,P03,2026-01-12,3,45,0.1,Zainab Bello,West,Desk Lamp,Home Office,18.0,135.0,121.5,54.0,67.5,0.5555555555555556,2026-01,100_to_499_99
+O1004,C001,P04,2026-02-02,1,250,0.15,Amina Yusuf,North,Office Chair,Furniture,140.0,250.0,212.5,140.0,72.5,0.3411764705882353,2026-02,100_to_499_99
+O1005,C004,P01,2026-02-10,2,120,0.0,Samuel James,East,Wireless Keyboard,Accessories,55.0,240.0,240.0,110.0,130.0,0.5416666666666666,2026-02,100_to_499_99
+O1006,C002,P03,2026-02-14,4,45,0.05,Daniel Okafor,South,Desk Lamp,Home Office,18.0,180.0,171.0,72.0,99.0,0.5789473684210527,2026-02,100_to_499_99
+O1007,C005,P02,2026-02-18,2,80,0.0,Unknown customer,Unknown,USB-C Hub,Accessories,32.0,160.0,160.0,64.0,96.0,0.6,2026-02,100_to_499_99
+O1008,C003,P04,2026-03-03,1,250,0.1,Zainab Bello,West,Office Chair,Furniture,140.0,250.0,225.0,140.0,85.0,0.37777777777777777,2026-03,100_to_499_99
+O1009,C004,P01,2026-03-11,1,120,0.0,Samuel James,East,Wireless Keyboard,Accessories,55.0,120.0,120.0,55.0,65.0,0.5416666666666666,2026-03,100_to_499_99
+O1010,C001,P03,2026-03-15,5,45,0.05,Amina Yusuf,North,Desk Lamp,Home Office,18.0,225.0,213.75,90.0,123.75,0.5789473684210527,2026-03,100_to_499_99
+O1017,C005,P03,2026-03-28,2,45,0.0,Unknown customer,Unknown,Desk Lamp,Home Office,18.0,90.0,90.0,36.0,54.0,0.6,2026-03,under_100

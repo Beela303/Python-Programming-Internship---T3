@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "checks": {
+    "required_columns_present": true,
+    "no_duplicate_order_lines": true,
+    "positive_quantities": true,
+    "non_negative_prices": true,
+    "discounts_in_valid_range": true,
+    "derived_sales_non_negative": true,
+    "join_dimensions_populated": true
+  },
+  "row_count": 11
+}

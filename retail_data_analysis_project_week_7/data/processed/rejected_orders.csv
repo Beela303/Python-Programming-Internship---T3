@@ -1,0 +1,7 @@
+order_id,customer_id,product_id,order_date,quantity,unit_price,discount_rate,rejection_reason,customer_name,region,customer_match,product_name,category,unit_cost,product_match
+O1011,C002,P02,,1,80,0.0,invalid_order_date,,,,,,,
+O1012,C003,P01,2026-03-20,0,120,0.0,invalid_quantity,,,,,,,
+O1015,C005,P04,2026-03-25,2,-10,0.0,invalid_unit_price,,,,,,,
+O1016,C001,P02,2026-03-26,1,80,1.2,invalid_discount_rate,,,,,,,
+O1013,C999,P04,2026-03-21,1,250,0.0,unmatched_customer,,,left_only,Office Chair,Furniture,140.0,both
+O1014,C004,P99,2026-03-22,1,30,0.0,unmatched_product,Samuel James,East,both,,,,left_only

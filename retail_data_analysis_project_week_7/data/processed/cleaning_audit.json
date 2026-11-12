@@ -1,0 +1,19 @@
+{
+  "source_order_rows": 18,
+  "exact_duplicates_removed": 1,
+  "missing_discounts_filled_with_zero": 2,
+  "rejected_before_join": 4,
+  "accepted_rows": 11,
+  "rejected_total": 6,
+  "raw_customer_rows": 5,
+  "raw_product_rows": 4,
+  "cleaning_policy": {
+    "missing_discount": "filled with 0.0",
+    "missing_customer_name": "filled with Unknown customer",
+    "missing_region": "filled with Unknown",
+    "missing_product_name": "filled with Unknown product",
+    "missing_category": "filled with Uncategorised",
+    "invalid_critical_fields": "rejected with reason",
+    "unmatched_dimension_keys": "rejected with reason"
+  }
+}
