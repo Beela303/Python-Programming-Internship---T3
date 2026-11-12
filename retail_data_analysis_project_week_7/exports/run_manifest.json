@@ -1,0 +1,12 @@
+{
+  "generated_at_utc": "2026-11-12T21:51:14.354342+00:00",
+  "pipeline": "retail_analytics",
+  "input_sha256": {
+    "orders": "643588ec23a61955eebb30b7cd24e7e47fc7db593c6f5746bcb245c1d99621e9",
+    "customers": "c75c2b6476d8d6d8afaded41f8a7b950246c423a7243f50465d0f5ec950c043b",
+    "products": "eee27edf170b12c8494a411614ce0045a1ba37c013e225c2393a2828b4e8674d"
+  },
+  "accepted_rows": 11,
+  "rejected_rows": 6,
+  "validation_passed": true
+}

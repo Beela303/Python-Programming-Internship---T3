@@ -1,0 +1,6 @@
+region,order_lines,net_sales,gross_profit
+North,3,654.2500,314.2500
+East,2,360.0000,195.0000
+West,2,346.5000,152.5000
+South,2,251.0000,147.0000
+Unknown,2,250.0000,150.0000
